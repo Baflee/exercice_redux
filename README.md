@@ -1,7 +1,7 @@
 # exercice_redux
 
 
-##Exercice
+## Exercice
 
 
 Vous êtes l’architecte du système informatique de SpaceX.
