@@ -1,6 +1,9 @@
 # exercice_redux
 
 
+##Exercice
+
+
 Vous êtes l’architecte du système informatique de SpaceX.
 
 Votre mission, si vous l'acceptez, est de modéliser et permettre les changements d'état du programme d'atterrissage en garantissant aucun bug.
@@ -38,3 +41,5 @@ B. (5pts) Proposez les actions de changement d'état : mise à jour des conditio
  
 
 C. (10pts) Ecrivez les reducers (avec tests)
+
+## Modélisation
