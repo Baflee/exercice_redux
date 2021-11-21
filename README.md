@@ -42,4 +42,18 @@ B. (5pts) Proposez les actions de changement d'état : mise à jour des conditio
 
 C. (10pts) Ecrivez les reducers (avec tests)
 
+## Resumer
+
+
+(Reducer) Le programme d'atterrissage, agis sur l'état de:
+- l'angle des ailerons (l'angle de l'aileron change pour garder la stabiliter de la trajectoire, peux changer selon la pression et la resistance du vent)
+- la poussée du réacteur (garder une vitesse constante, peux changer selon la resistance du vent)
+
+(Fonction) Le système calculant les paramètres de la fusée, selon les critères suivants :
+-la pression (plus nous allons haut, moins la pression et grande)
+-la température (la temperature agis aussi sur la pression, plus la temperature et grande, plus la pression augmente)
+-le taux d'humidité
+-la vitesse du vent (si la vitesse du vent est contraire a la trajectoire de la fusee, on n'a une resistance de l'air)
+
+
 ## Modélisation
